@@ -171,7 +171,7 @@ SET stage = NULL
 WHERE stage = 'NULL'
 
 --we can either make stage: 'Unknown' a NULL value or vice versa 
--- but for now we just turn string NULL to NULL
+-- but for now we just turn string 'NULL' to NULL
 
 
 -- 3. NULL values or Blanks
